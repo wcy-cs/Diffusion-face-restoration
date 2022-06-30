@@ -31,6 +31,7 @@ Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration
 
 15. [VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder](https://arxiv.org/pdf/2205.06803.pdf). Gu Y, et al. arXiv 2022.
 
+16. [Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration](https://arxiv.org/pdf/2206.13962.pdf). Yu Y, et al. axXiv 2022.
 ## Unsupervised Methods
 
 1. [Unpaired Face Restoration via Learnable Cross-Quality Shift](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Dong_Unpaired_Face_Restoration_via_Learnable_Cross-Quality_Shift_CVPRW_2022_paper.html). Dong Y, et al. CVPRW 2022: 667-675.
