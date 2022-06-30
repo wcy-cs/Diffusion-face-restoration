@@ -1,7 +1,7 @@
 Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration
 # Benchamrk blind face restoration
 ## Supervised Methods
-1. Learning warped guidance for blind face restoration. Li X, et al. ECCV 2018: 272-289. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.html)]
+1. [Learning warped guidance for blind face restoration](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.html). Li X, et al. ECCV 2018: 272-289. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaoming_Li_Learning_Warped_Guidance_ECCV_2018_paper.html)]
 
 2. Enhanced blind face restoration with multi-exemplar images and adaptive spatial feature fusion. Li X, et al. CVPR 2020: 2706-2715. [[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.html)]
 
