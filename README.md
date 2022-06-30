@@ -17,15 +17,19 @@ Multi-Prior Learning via Neural Architecture Search for Blind Face Restoration
 
 8. [Gan prior embedded network for blind face restoration in the wild](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_GAN_Prior_Embedded_Network_for_Blind_Face_Restoration_in_the_CVPR_2021_paper.html). Yang T, et al. CVPR 2021: 672-681.
 
-9. [RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RestoreFormer_High-Quality_Blind_Face_Restoration_From_Undegraded_Key-Value_Pairs_CVPR_2022_paper.pdf). Wang Z, et al. CVPR 2022: 17512-17521.
+9. [Panini-Net: GAN Prior Based Degradation-Aware Feature Interpolation for Face Restoration](https://www.aaai.org/AAAI22Papers/AAAI-4252.WangY.pdf). Wang Y, et al. AAAI 2022.
 
-10. [Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/pdf/2206.11253.pdf). Zhou S, et al. arXiv 2022.
+10. [GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors](https://openaccess.thecvf.com/content/CVPR2022/papers/He_GCFSR_A_Generative_and_Controllable_Face_Super_Resolution_Method_Without_CVPR_2022_paper.pdf). He J, et al. CVPR 2022: 1889-1898.
+ 
+11. [RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RestoreFormer_High-Quality_Blind_Face_Restoration_From_Undegraded_Key-Value_Pairs_CVPR_2022_paper.pdf). Wang Z, et al. CVPR 2022: 17512-17521.
 
-11. [Rethinking Deep Face Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf). Zhao Y, et al. CVPR 2022: 7652-7661.
+12. [Towards Robust Blind Face Restoration with Codebook Lookup Transformer](https://arxiv.org/pdf/2206.11253.pdf). Zhou S, et al. arXiv 2022.
 
-12. [Blind Face Restoration via Integrating Face Shape and Generative Priors](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.pdf). Zhu F, et al. CVPR 2022: 7662-7671.
+13. [Rethinking Deep Face Restoration](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Rethinking_Deep_Face_Restoration_CVPR_2022_paper.pdf). Zhao Y, et al. CVPR 2022: 7652-7661.
 
-13. [VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder](https://arxiv.org/pdf/2205.06803.pdf). Gu Y, et al. arXiv 2022.
+14. [Blind Face Restoration via Integrating Face Shape and Generative Priors](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Blind_Face_Restoration_via_Integrating_Face_Shape_and_Generative_Priors_CVPR_2022_paper.pdf). Zhu F, et al. CVPR 2022: 7662-7671.
+
+15. [VQFR: Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder](https://arxiv.org/pdf/2205.06803.pdf). Gu Y, et al. arXiv 2022.
 
 ## Unsupervised Methods
 
