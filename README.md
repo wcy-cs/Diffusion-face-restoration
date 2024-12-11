@@ -14,4 +14,6 @@
 13. [Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html), Zhao Y, et al. ICCV 2023.
 14. [DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration](https://arxiv.org/abs/2305.04517), Qiu X, et al. ACM MM 2023
 15. [BR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2411.10508), Qiu X, et al.
+16. [InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention](https://arxiv.org/abs/2412.06753), Zhang H, et al.
+17. [ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration](https://arxiv.org/abs/2412.05043), Hsiao C. W. et al, NIPS 2024.
 
