@@ -6,13 +6,14 @@
 5. [Learning Degradation-unaware Representation with Prior-based Latent Transformations for Blind Face Restoration](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_Learning_Degradation-unaware_Representation_with_Prior-based_Latent_Transformations_for_Blind_Face_CVPR_2024_paper.html), CVPR 2024
 7. [Towards Real-World Blind Face Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2312.15736), TCSVT 2024. [github](https://github.com/chenxx89/BFRffusion)
 9. [3D Priors-Guided Diffusion for Blind Face Restoration](https://dl.acm.org/doi/abs/10.1145/3664647.3681611), ACM MM 2024. [github](https://github.com/Xiaobin-Lu/3Diffusion)
-10. [Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10716316/), SIBGRAPI 2024, [github](https://github.com/marcelowds/fasr)
-11.  [DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DR2_Diffusion-Based_Robust_Degradation_Remover_for_Blind_Face_Restoration_CVPR_2023_paper.pdf). CVPR 2023. [github](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)
-12. [PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance](https://arxiv.org/abs/2309.10810). NIPS 2023. [github](https://github.com/pq-yang/PGDiff)
-13. [Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html), ICCV 2023.
-14. [DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration](https://arxiv.org/abs/2305.04517), ACM MM 2023
-15. [DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2411.10508), 
-16. [Face Super-Resolution Using Stochastic Differential Equations](https://ieeexplore.ieee.org/abstract/document/9991799), SIBGRAPI 2022
+10. [CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models](https://arxiv.org/html/2402.06106v1), IJCAI 2024.
+11. [Multi-Feature Aggregation in Diffusion Models for Enhanced Face Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10716316/), SIBGRAPI 2024, [github](https://github.com/marcelowds/fasr)
+12.  [DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DR2_Diffusion-Based_Robust_Degradation_Remover_for_Blind_Face_Restoration_CVPR_2023_paper.pdf). CVPR 2023. [github](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)
+13. [PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance](https://arxiv.org/abs/2309.10810). NIPS 2023. [github](https://github.com/pq-yang/PGDiff)
+14. [Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_Towards_Authentic_Face_Restoration_with_Iterative_Diffusion_Models_and_Beyond_ICCV_2023_paper.html), ICCV 2023.
+15. [DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration](https://arxiv.org/abs/2305.04517), ACM MM 2023
+16. [DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration](https://arxiv.org/abs/2411.10508), 
+17. [Face Super-Resolution Using Stochastic Differential Equations](https://ieeexplore.ieee.org/abstract/document/9991799), SIBGRAPI 2022
 
     ## Reference-based Blind Face Restoration
 1. [ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration](https://arxiv.org/abs/2412.05043), NIPS 2024. [github](https://chiweihsiao.github.io/refldm.github.io/)
