@@ -1,6 +1,6 @@
 # Diffusion Face Restoration Benchmark
 1. [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/abs/2507.13797), ICCV 2025.
-2. [Towards Unsupervised Blind Face Restoration using Diffusion Prior](https://arxiv.org/abs/2410.04618), WACV 2025.
+2. [Towards Unsupervised Blind Face Restoration using Diffusion Prior](https://arxiv.org/abs/2410.04618), WACV 2025. [github](https://github.com/SamsungLabs/DT-BFR)
 3. [InfoBFR: Real-World Blind Face Restoration via Information Bottleneck](https://arxiv.org/abs/2501.15443), ARXIV 2025.
 4. [OSDFace: One-Step Diffusion Model for Face Restoration](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_OSDFace_One-Step_Diffusion_Model_for_Face_Restoration_CVPR_2025_paper.html), CVPR2025, [github](https://github.com/jkwang28/OSDFace)
 5. [AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](https://arxiv.org/html/2410.09864v1), ACM MM 2025. [github](https://github.com/EthanLiang99/AuthFace)
