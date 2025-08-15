@@ -1,6 +1,6 @@
 # Diffusion Face Restoration Benchmark
 1. [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/abs/2507.13797), ICCV 2025.
-2. [QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration](https://arxiv.org/abs/2506.00820), ARXIV 2025.
+2. [QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration](https://arxiv.org/abs/2506.00820), ARXIV 2025. [github](https://github.com/jiatongli2024/QuantFace)
 3. [LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter](https://arxiv.org/abs/2505.23462), ARXIV 2025.
 4. [Towards Unsupervised Blind Face Restoration using Diffusion Prior](https://arxiv.org/abs/2410.04618), WACV 2025. [github](https://github.com/SamsungLabs/DT-BFR)
 5. [InfoBFR: Real-World Blind Face Restoration via Information Bottleneck](https://arxiv.org/abs/2501.15443), ARXIV 2025.
