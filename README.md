@@ -32,3 +32,5 @@
 6. [Robust ID-Specific Face Restoration via Alignment Learning](https://arxiv.org/abs/2507.10943),  ARXIV 2025
 7. [FaceMe: Robust Blind Face Restoration with Personal Identification](https://arxiv.org/abs/2501.05177), AAAI 2025. [github](https://github.com/modyu-liu/FaceMe)
 8. [Reference-Guided Identity Preserving Face Restoration](https://arxiv.org/abs/2505.21905), ARXIV 2025 [github](https://github.com/cdluminate/RefIPFR)
+    ## Face Retouching Restoration
+9. [MoFRR: Mixture of Diffusion Models for Face Retouching Restoration](https://arxiv.org/pdf/2507.19770?), ARXIV 2025.
