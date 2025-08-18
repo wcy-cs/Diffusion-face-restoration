@@ -3,7 +3,7 @@
 2. [AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior](https://arxiv.org/html/2410.09864v1), ACM MM 2025. [github](https://github.com/EthanLiang99/AuthFace)
 3. [Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution](https://arxiv.org/abs/2412.16552), AAAI 2025. [github](https://github.com/JerryYann/DPI)
 4. [DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance](https://arxiv.org/abs/2507.13797), ICCV 2025.
-5. [DiffusionReward: Enhancing Blind Face Restoration through Reward Feedback Learning](https://arxiv.org/abs/2505.17910), ARXUV 2025.
+5. [DiffusionReward: Enhancing Blind Face Restoration through Reward Feedback Learning](https://arxiv.org/abs/2505.17910), ARXIV 2025. [github](https://github.com/01NeuralNinja/DiffusionReward)
 6. [HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469), ARXIV 2025. [github](https://github.com/jkwang28/HonestFace)
 7. [Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration](https://arxiv.org/pdf/2412.21042?), PR 2025.[github](https://github.com/LonglongaaaGo/VSPBFR)
 8. [TD-BFR: Truncated Diffusion Model for Efficient Blind Face Restoration](https://arxiv.org/pdf/2503.20537), ICME 2025.
