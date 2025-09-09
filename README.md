@@ -32,7 +32,7 @@
 2. [PFStorer: Personalized Face Restoration and Super-Resolution](https://openaccess.thecvf.com/content/CVPR2024/html/Varanka_PFStorer_Personalized_Face_Restoration_and_Super-Resolution_CVPR_2024_paper.html), CVPR 2024.
 3. [RestorerID: Towards Tuning-Free Face Restoration with ID Preservation](https://arxiv.org/abs/2411.14125), ARXIV 2024. [github](https://github.com/YingJiacheng/RestorerID)
 4. [Diffuse and Restore: A Region-Adaptive Diffusion Model for Identity-Preserving Blind Face Restoration](https://openaccess.thecvf.com/content/WACV2024/html/Suin_Diffuse_and_Restore_A_Region-Adaptive_Diffusion_Model_for_Identity-Preserving_Blind_WACV_2024_paper.html), Suin M, et al. WACV 2024.
-5. [InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention](https://arxiv.org/abs/2412.06753), 
+5. [InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention](https://arxiv.org/abs/2412.06753), ARXIV 2025. [github](https://github.com/snap-research/InstantRestore)
 6. [Robust ID-Specific Face Restoration via Alignment Learning](https://arxiv.org/abs/2507.10943),  ARXIV 2025
 7. [FaceMe: Robust Blind Face Restoration with Personal Identification](https://arxiv.org/abs/2501.05177), AAAI 2025. [github](https://github.com/modyu-liu/FaceMe)
 8. [Reference-Guided Identity Preserving Face Restoration](https://arxiv.org/abs/2505.21905), ARXIV 2025 [github](https://github.com/cdluminate/RefIPFR)
